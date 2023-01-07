@@ -14,6 +14,7 @@ To summarize, our model tries to maximize the overall points of 11-starting play
  5-4-1 
 
 Apart from this, we also need to choose our 4 substitutes, one of which must be a goalkeeper. Although points from these players do not contribute to our fantasy points, these players have a price tag and must follow the total budget constraint.
+
 4.	National Team Constraint: You are allowed to choose 5 players max per nation for the quarterfinals.
 5.	Yellow Card Constraint: A player who got 2 yellow cards in consecutive games can’t play the next game  
 6.	Red Card Constraint: A player who gets a red card cannot play the next game.
