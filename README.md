@@ -4,13 +4,13 @@ To summarize, our model tries to maximize the overall points of 11-starting play
 1.	Total players Constraint: The primary hard constraint that we have is that our fantasy team can only comprise 15 players.  
 2.	Budget Constraint: There is a budget cap of $100 million and each player has a price tag
 3.	Position Constraints: You are allowed to have at max 3 forwards, 5 midfielders, and defensive players. There will be at least one goalkeeper as well in the team. These are all the possible formations that a playing 11 can have:   
- 4-4-2
- 4-3-3
- 4-5-1
- 3-4-3
- 3-5-2
- 5-2-3
- 5-3-2
+ 4-4-2,
+ 4-3-3,
+ 4-5-1,
+ 3-4-3,
+ 3-5-2,
+ 5-2-3,
+ 5-3-2,
  5-4-1 
 
 Apart from this, we also need to choose our 4 substitutes, one of which must be a goalkeeper. Although points from these players do not contribute to our fantasy points, these players have a price tag and must follow the total budget constraint.
